@@ -1,0 +1,17 @@
+{
+"companyName": "Never Industries",
+"productName": "Quizzaciously",
+"productVersion": "1.0.1",
+"dataUrl": "8i9np,ujh hfvc gbbg fvyhuj.data.unityweb",
+"wasmCodeUrl": "8i9np,ujh hfvc gbbg fvyhuj.wasm.code.unityweb",
+"wasmFrameworkUrl": "8i9np,ujh hfvc gbbg fvyhuj.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "8i9np,ujh hfvc gbbg fvyhuj.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.18f1"
+}
